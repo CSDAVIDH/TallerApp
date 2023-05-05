@@ -1,4 +1,6 @@
-Persona_1
+TALLER DE APLICACION EN INTERNET
+
+Persona_1 : David Hilarion Condori Sullcani
 1.- Metodologias tradicionales
 -Cascada
 -Modelo V
