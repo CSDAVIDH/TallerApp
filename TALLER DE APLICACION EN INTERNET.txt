@@ -1,0 +1,8 @@
+Persona_1
+1.- Metodologias tradicionales
+-Cascada
+-Modelo V
+-Incremental
+-Prototipo
+-Espiral
+-Modelo de desarrollo en Cascada Modificada
