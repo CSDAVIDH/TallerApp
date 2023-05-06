@@ -8,3 +8,12 @@ Persona_1 : David Hilarion Condori Sullcani
 -Prototipo
 -Espiral
 -Modelo de desarrollo en Cascada Modificada
+
+
+Persona_2 : Ernesth Yañez Mayorga
+1.- Metodologias Agiles
+-Extreme Programming XP
+-Scrum
+-Kanban
+-Agile Inception
+-Design Sprint
